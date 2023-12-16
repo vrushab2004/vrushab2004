@@ -14,9 +14,6 @@
 
 - 📫 How to reach me **vrushabhsaa123@gmail.com**
 <center>
-  <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-  <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="vrushabh-jain-a-b46427221" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/vrushabh-jain-a-b46427221?trk=profile-badge">Vrushabh Jain A</a></div>
-              
 <table>
   <tr>
     <th colspan = 2><img src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif"></th>
